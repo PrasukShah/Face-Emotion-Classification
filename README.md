@@ -13,8 +13,6 @@ The project focuses on building a machine learning model capable of accurately d
 - **Training and Evaluation:** Provides scripts for training the model on labeled datasets and evaluating its performance using metrics like accuracy, precision, recall, and F1-score.
 - **Deployment:** Offers guidance on deploying the trained model in real-world applications, including integration with web or mobile applications.
 
-## Getting Started
-
 1. **Clone the Repository:**
    ```
    git clone https://github.com/PrasukShah/Face-Emotion-Classification.git
@@ -25,14 +23,4 @@ The project focuses on building a machine learning model capable of accurately d
    ```
    pip install -r requirements.txt
    ```
-
-3. **Download Datasets:**
-   Download or prepare labeled datasets containing facial images annotated with emotion labels. Ensure proper directory structure for easy loading during training.
-
-4. **Deploy the Model:**
-   Deploy the trained model in your desired application environment. Ensure compatibility and efficiency for real-time inference.
-
-
 ---
-
-Feel free to customize and expand upon this template according to your specific project requirements and preferences.
